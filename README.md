@@ -1,86 +1,102 @@
-Hi there 👋, I'm Archana Gupta
-💻 Full Stack MERN Developer | 🤖 Exploring AI | 🚀 Lifelong Learner
+<h1 align="center">Hi 👋, I'm Archana Gupta</h1>
 
-Building modern, scalable, and user-friendly web applications with the MERN Stack while exploring the exciting world of AI.
+<h3 align="center">
+💻 Full Stack MERN Developer • 🚀 Exploring AI • 🌱 Lifelong Learner
+</h3>
 
-🚀 About Me
+<p align="center">
+Building modern, scalable, and user-friendly web applications with the MERN Stack.
+<br/>
+Currently exploring <b>Generative AI</b> to create intelligent applications.
+</p>
 
+---
 
-🎓 Bachelor of Computer Applications (BCA)
-💻 Full Stack MERN Developer
-🌱 Currently learning Generative AI, Next.js, and System Design
-🔭 Working on a Premium Jewellery E-commerce Platform
-💡 Passionate about Web Development, AI, and Open Source
-📍 Uttar Pradesh, India
+# 🚀 About Me
 
+- 🎓 **Bachelor of Computer Applications (BCA)**
+- 💼 **Full Stack MERN Developer**
+- 🌱 Currently learning **Generative AI**, **Next.js**, and **Advanced Backend Development**
+- 🔭 Working on a **Premium Jewellery E-commerce Platform**
+- 💡 Passionate about **Web Development**, **AI**, and **Open Source**
+- 📍 Uttar Pradesh, India
 
-🛠 Tech Stack
+---
 
+# 🛠️ Tech Stack
 
-💻 Languages
+## 💻 Languages
 
-JavaScript • TypeScript • HTML5 • CSS3 • C++
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp" />
+</p>
 
+## 🎨 Frontend
 
-🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap" />
+</p>
 
-React.js • Next.js • Bootstrap
+## ⚙️ Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
- ⚙️ Backend
+## 🗄️ Database
 
- Node.js • Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
+## 🧰 Tools
 
- 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-MongoDB • SQL
+---
 
+# 🚀 Featured Projects
 
-🛠 Tools
+## 💎 Radhika Jewellers
 
-Git • GitHub • VS Code • Cloudinary
-
-
-
-🚀 Featured Projects
-
-
-💎 Radhika Jewellers (Freelance | Ongoing)
-
-Premium Full Stack Jewellery E-commerce Platform
+Premium Full Stack Jewellery E-commerce Website
 
 ✨ Features
 
-Authentication & Authorization
-Product Catalog
-Shopping Cart
-Order Management
-Admin Dashboard
-Responsive Design
-REST APIs
-MongoDB Integration
+- Authentication
+- Product Catalog
+- Shopping Cart
+- Order Management
+- Admin Dashboard
+- Responsive Design
 
+---
 
-🏥 Hospital Management System
-Patient Management
-Doctor Management
-Employee Management
-Appointment Booking
-Authentication
-Image Upload
-CRUD Operations
+## 🏥 Hospital Management System
 
+- Patient Management
+- Doctor Management
+- Employee Management
+- Appointment Booking
+- Image Upload
+- CRUD Operations
 
-📱 Social Media Platform
-Secure Authentication
-Posts, Likes & Comments
-Dark & Light Theme
-Cloudinary Image Upload
-Responsive UI
+---
 
+## 📱 Social Media Platform
 
-📜 Certifications
+- Authentication
+- Posts
+- Likes & Comments
+- Dark / Light Mode
+- Cloudinary Image Upload
+- Responsive Design
+
+---
+
+# 📜 Certifications
 
 🏆 Generative AI Workshop – IIT Kanpur
 
@@ -92,27 +108,36 @@ Responsive UI
 
 📜 Full Stack MERN Development
 
-🌱 Currently Learning
+---
 
-🤖 Generative AI
-⚛️ Next.js
-📘 TypeScript
-🏗 Backend Architecture
-🧠 System Design
+# 🌱 Currently Learning
 
+- 🤖 Generative AI
+- ⚛️ Next.js
+- 📘 TypeScript
+- 🏗️ Backend Architecture
+- 🧠 System Design
 
-🎯 Goals for 2026
-✅ Build scalable Full Stack applications
-✅ Contribute to Open Source
-✅ Master Generative AI
-✅ Solve DSA problems consistently
-✅ Land a Software Developer role
+---
 
-📫 Connect With Me
-💼 LinkedIn: www.linkedin.com/in/archana-g-503a312a9/
-📧 Email: archanag2205@gmail.com
-💭 Favorite Quote
+# 🤝 Connect With Me
 
-"Learning never stops. Every project is a step toward becoming a better developer."
+<p align="left">
 
-⭐ Thanks for visiting my profile!
+<a href="https://www.linkedin.com/in/archana-g-503a312a9/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="mailto:archanag2205@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+💡 "Learning never stops. Every project is a step toward becoming a better developer."
+</h3>
+
+<h2 align="center">⭐ Thanks for visiting my profile! ⭐</h2>
