@@ -4,34 +4,48 @@ Hi there 👋, I'm Archana Gupta
 Building modern, scalable, and user-friendly web applications with the MERN Stack while exploring the exciting world of AI.
 
 🚀 About Me
+
+
 🎓 Bachelor of Computer Applications (BCA)
 💻 Full Stack MERN Developer
 🌱 Currently learning Generative AI, Next.js, and System Design
 🔭 Working on a Premium Jewellery E-commerce Platform
 💡 Passionate about Web Development, AI, and Open Source
 📍 Uttar Pradesh, India
+
+
 🛠 Tech Stack
+
+
 💻 Languages
 
 JavaScript • TypeScript • HTML5 • CSS3 • C++
+
 
 🎨 Frontend
 
 React.js • Next.js • Bootstrap
 
-⚙️ Backend
 
-Node.js • Express.js
+ ⚙️ Backend
 
-🗄 Database
+ Node.js • Express.js
+
+
+ 🗄 Database
 
 MongoDB • SQL
+
 
 🛠 Tools
 
 Git • GitHub • VS Code • Cloudinary
 
+
+
 🚀 Featured Projects
+
+
 💎 Radhika Jewellers (Freelance | Ongoing)
 
 Premium Full Stack Jewellery E-commerce Platform
