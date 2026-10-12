@@ -63,7 +63,7 @@
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap" alt="React, Next.js, Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap" alt="React, Bootstrap" />
 </p>
 
 ### ⚙️ Backend Development
@@ -103,7 +103,7 @@
 ### 🧰 Tools and Deployment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" alt="Git, GitHub, VS Code, Postman, Vercel and Render" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Git, GitHub, VS Code, Postman, Vercel " />
 </p>
 
 ---
